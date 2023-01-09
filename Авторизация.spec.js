@@ -5,7 +5,7 @@ slowCypressDown(100)
 
 {baseUrl:3000}
 
-describe('Авторизация и Вход',()=>{
+describe('Авторизация и Выход',()=>{
 
 it ('Авторизация', ()=>{
     cy.visit('https://develop.athayoga.su')
